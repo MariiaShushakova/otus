@@ -1,6 +1,5 @@
 import pytest
 
-from src.hw2.rectangle import Rectangle
 
 
 @pytest.fixture()
