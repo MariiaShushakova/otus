@@ -1,2 +1,4 @@
+Flask==2.2.5
+mitmproxy==9.0.1
 pytest==7.4.4
-
+requests==2.31.0
